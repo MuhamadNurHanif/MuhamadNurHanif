@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm Hanif, a passionate Full-Stack Software Engine
 
 ### Back-End
 - PHP (Laravel)
-- Node.js (Express)
+- Node.js (Express) - Beginner
 - RESTful APIs
 
 ### Database & Tools
@@ -60,7 +60,7 @@ Welcome to my GitHub profile! I'm Hanif, a passionate Full-Stack Software Engine
 ## 📑 Education
 
 - **Bachelor of Science in Software Engineering**  
-  Politeknik Negeri Banyuwangi (2023 - Present)  
+  Politeknik Negeri Banyuwangi (2022 - Present)  
   Currently in the 4th semester, studying Full-Stack Development and other advanced computer science topics.
 
 ---
