@@ -1,6 +1,6 @@
 # Hanif - Full-Stack Software Engineering Student
 
-Welcome to my GitHub profile! I'm Hanif, a passionate Full-Stack Software Engineering student from Politeknik Negeri Banyuwangi. I'm currently in my 5th semester and have a keen interest in developing both front-end and back-end applications. My goal is to become a well-rounded software engineer who is capable of creating innovative, efficient, and scalable applications.
+Welcome to my GitHub profile! I'm Hanif, a passionate Full-Stack Software Engineering student from Politeknik Negeri Banyuwangi. I'm currently in my 6th semester and have a keen interest in developing both front-end and back-end applications. My goal is to become a well-rounded software engineer who is capable of creating innovative, efficient, and scalable applications.
 
 ## 🚀 About Me
 
@@ -45,11 +45,11 @@ Welcome to my GitHub profile! I'm Hanif, a passionate Full-Stack Software Engine
 ## 💼 Professional Experience
 
 - **Freelance Web Developer**  
-  *Freelancing* (2023 - Present)  
+  *Freelancing* (2022 - Present)  
   I have worked with clients to create websites for businesses, improving their online presence with responsive, dynamic web applications.
 
 - **Intern Web Developer**  
-  *Tech Innovators Inc.* (2024)  
+  *PT. MasCitra Teknologi Informasi.* (2025 - Present)  
   Assisted in developing and maintaining the company's website, focusing on improving user experience and site performance.
 
 ## 🎯 Goals
