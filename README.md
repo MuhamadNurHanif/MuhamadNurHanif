@@ -1,27 +1,31 @@
 # Hanif - Full-Stack Software Engineering Student
 
-Welcome to my GitHub profile! I'm Hanif, a passionate Full-Stack Software Engineering student from Politeknik Negeri Banyuwangi. I'm currently in my 6th semester and have a keen interest in developing both front-end and back-end applications. My goal is to become a well-rounded software engineer who is capable of creating innovative, efficient, and scalable applications.
+Welcome to my GitHub profile! I'm Hanif, a dedicated Full-Stack Software Engineering student at Politeknik Negeri Banyuwangi. Currently in my 6th semester, I have a strong passion for developing scalable and efficient applications. My goal is to continuously expand my expertise in both front-end and back-end technologies, contributing to innovative solutions in the tech industry.
+
+---
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning Full-Stack Software Engineering, which includes technologies like **Java, JavaScript, HTML, CSS, Tailwind CSS, Laravel, and more**.
-- 💡 I love exploring new technologies, frameworks, and tools to build responsive and dynamic web and mobile applications.
-- 🔭 I’m looking forward to deepening my knowledge in web development, database management, and cloud computing.
-- 👯 I’m collaborating with fellow students and tech enthusiasts on projects, striving to create useful and impactful solutions.
-- 💬 Ask me about **web development, mobile development, or any new tech trends** – I love discussing technology and its potential to change the world.
-- 📫 How to reach me: **[Email me at nurhanif2312@gmail.com](mailto:nurhanif2312@gmail.com)**
+- 🌱 Currently mastering **Full-Stack Software Engineering**, working with technologies like **Java, JavaScript, HTML, CSS, Tailwind CSS, Laravel, and more**.
+- 💡 Passionate about exploring new technologies, frameworks, and tools to build responsive and dynamic web and mobile applications.
+- 🔭 Focusing on advancing my knowledge in **web development, database management, and cloud computing**.
+- 👯 Collaborating with fellow developers and tech enthusiasts to build impactful solutions.
+- 💬 Open to discussions on **web development, mobile development, and emerging tech trends**.
+- 📫 Reach me at **[nurhanif2312@gmail.com](mailto:nurhanif2312@gmail.com)**.
+
+---
 
 ## 🛠️ Skills & Technologies
 
-### Front-End
+### Front-End Development
 - HTML5, CSS3, JavaScript
 - Tailwind CSS, Bootstrap
 - React, Vue.js (Beginner)
 
-### Back-End
+### Back-End Development
 - PHP (Laravel)
 - Node.js (Express) - Beginner
-- RESTful APIs
+- RESTful API Development
 
 ### Database & Tools
 - MySQL, PostgreSQL
@@ -31,47 +35,53 @@ Welcome to my GitHub profile! I'm Hanif, a passionate Full-Stack Software Engine
 
 ### Mobile Development
 - Android Development (Flutter)
-  
+
 ### Other Technologies
 - Agile Methodology
 - Cloud Deployment (AWS, DigitalOcean - Beginner)
-- CI/CD pipelines (Jenkins)
+- CI/CD Pipelines (Jenkins)
 
-## 📚 Current Projects
-- **[Blimbingsari Creative Craft Website](https://github.com/Hanif/BlimbingsariCreativeCraft)**: A dynamic website for a local business, featuring a catalog system with product management and customer engagement.
-- **Student Information System**: A web-based application for managing student information and grades, built using Laravel.
-- **Personal Portfolio**: A project to showcase my work, skills, and achievements as a Full-Stack Developer.
+---
+
+## 📚 Projects
+
+- **[Blimbingsari Creative Craft Website](https://github.com/Hanif/BlimbingsariCreativeCraft)** – A dynamic website for a local business featuring a product catalog and customer engagement features.
+- **Student Information System** – A web-based application for managing student data and academic records, built with Laravel.
+- **Personal Portfolio** – A portfolio showcasing my projects, skills, and experiences as a Full-Stack Developer.
+
+---
 
 ## 💼 Professional Experience
 
-- **Freelance Web Developer**  
-  *Freelancing* (2022 - Present)  
-  I have worked with clients to create websites for businesses, improving their online presence with responsive, dynamic web applications.
+### Freelance Web Developer *(2022 - Present)*
+- Developed and deployed responsive websites for various clients, enhancing their online presence.
+- Optimized web applications for better performance and user experience.
 
-- **Intern Web Developer**  
-  *PT. MasCitra Teknologi Informasi.* (2025 - Present)  
-  Assisted in developing and maintaining the company's website, focusing on improving user experience and site performance.
+### Intern Web Developer – *PT. MasCitra Teknologi Informasi* *(2025 - Present)*
+- Assisted in the development and maintenance of the company's website.
+- Focused on enhancing user experience and improving site performance.
 
-## 🎯 Goals
-- Gain hands-on experience by working on more challenging Full-Stack projects.
-- Contribute to open-source projects and collaborate with developers worldwide.
-- Improve my skills in cloud infrastructure and mobile application development.
-  
+---
+
+## 🎯 Career Goals
+
+- Gain hands-on experience in advanced Full-Stack development projects.
+- Contribute to open-source projects and collaborate with developers globally.
+- Enhance expertise in cloud computing and mobile application development.
+
+---
+
 ## 📑 Education
 
-- **Bachelor of Science in Software Engineering**  
-  Politeknik Negeri Banyuwangi (2022 - Present)  
-  Currently in the 4th semester, studying Full-Stack Development and other advanced computer science topics.
+**Bachelor of Science in Software Engineering**  
+Politeknik Negeri Banyuwangi *(2022 - Present)*  
+Currently in the 6th semester, focusing on Full-Stack Development and advanced computing technologies.
 
 ---
 
 ## 👀 Let's Connect!
 
-Feel free to explore my repositories and reach out if you want to collaborate on a project, discuss new technologies, or just share ideas!  
-Let's make the world better with code! 💻
+Feel free to explore my repositories and reach out if you're interested in collaborating, discussing tech trends, or sharing insights. Let's innovate and build great things together! 💻
 
----
-
-**Follow me on**  
+**Follow me on:**  
 [LinkedIn](https://www.linkedin.com/in/hanif) | [Instagram](https://www.instagram.com/hanifmnh/) | [GitHub](https://github.com/Hanif)
-
