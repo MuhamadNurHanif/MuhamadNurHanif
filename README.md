@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm Hanif, a dedicated Full-Stack Software Enginee
 
 ## 📚 Projects
 
-- **[Blimbingsari Creative Craft Website](https://github.com/Hanif/BlimbingsariCreativeCraft)** – A dynamic website for a local business featuring a product catalog and customer engagement features.
+- **[Blimbingsari Creative Craft Website](https://bccrafts.com/)** – A dynamic website for a local business featuring a product catalog and customer engagement features.
 - **Student Information System** – A web-based application for managing student data and academic records, built with Laravel.
 - **Personal Portfolio** – A portfolio showcasing my projects, skills, and experiences as a Full-Stack Developer.
 
@@ -84,4 +84,4 @@ Currently in the 6th semester, focusing on Full-Stack Development and advanced c
 Feel free to explore my repositories and reach out if you're interested in collaborating, discussing tech trends, or sharing insights. Let's innovate and build great things together! 💻
 
 **Follow me on:**  
-[LinkedIn](https://www.linkedin.com/in/hanif) | [Instagram](https://www.instagram.com/hanifmnh/) | [GitHub](https://github.com/Hanif)
+[LinkedIn](https://www.linkedin.com/in/muhamad-nur-hanif/) | [Instagram](https://www.instagram.com/hanifmnh/) | [GitHub](https://github.com/MuhamadNurHanif)
