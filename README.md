@@ -33,6 +33,8 @@
 ---
 
 ## 💼 Experience
+- 💼 **Freelance Full-Stack Web Developer** *(2023 - Present)*  
+  🖥️ Building responsive websites, 🧰 integrating backend systems, and 🚀 delivering modern digital solutions for various clients across industries.
 
 - 🖥️ **Freelance IT Support Engineer @ PT Graha Karya Informasi** _(2024)_  
   🔧 Installation & 🛰️ Network Configuration
