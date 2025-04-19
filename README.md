@@ -27,7 +27,7 @@
 ## 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=30BC6B&center=true&vCenter=true&width=435&lines=Cloud+Deployment+%28AWS%2C+DigitalOcean%29;CI%2FCD+Pipelines+%28Jenkins%29;Advanced+Mobile+Dev+with+Flutter" alt="Lifelong Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=30BC6B&center=true&vCenter=true&width=435&lines=Cloud+Deployment+%28AWS%2C+DigitalOcean%29;CI%2FCD+Pipelines+%28Jenkins%29;Advanced+Mobile+Dev+with+Flutter%Web+Development" alt="Lifelong Learning" />
 </p>
 
 ---
