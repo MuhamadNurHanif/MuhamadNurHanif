@@ -1,12 +1,13 @@
 <h1 align="center">👋 Hi there, I'm Hanif!</h1>
 <p align="center">
   🚀 Full-Stack Software Engineering Student at <strong>Politeknik Negeri Banyuwangi</strong><br/>
-  💻 Passionate about Web & Mobile Development | Cloud | UI/UX
+  💻 Passionate about Web & Mobile Development | Cloud  | Linux Enthusiast
 </p>
 
 ---
 
 ## 🧠 Tech Stack
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vue,php,laravel,nodejs,mysql,postgres,mongodb,docker,git" />
 </p>
@@ -14,6 +15,7 @@
 ---
 
 ## 🧩 Projects Showcase
+
 > 💼 Real-world solutions with purpose
 
 - 🎨 [**Blimbingsari Creative Craft**](https://bccrafts.com) – Product catalog & client engagement site
@@ -30,16 +32,28 @@
 
 ---
 
-## ✨ Experience
+## 💼 Experience
 
-- 🧑‍💻 **Freelance Developer** (2022–Now): Building responsive and optimized websites
-- 🧪 **Intern @ PT. MasCitra Teknologi Informasi** (2025): Website maintenance & UX improvements
+- 🖥️ **Freelance IT Support Engineer @ PT Graha Karya Informasi** _(2024)_  
+  🔧 Installation & 🛰️ Network Configuration
 
----
+- 🌐 **Intern @ PT. MasCitra Teknologi Informasi** _(2025 - Present)_  
+  🧩 Website Maintenance & 🎯 UX Improvements
+
+- 🏗️ **Intern @ Open Your Mind Indonesia** _(2024 - Present)_  
+  🛠️ Website Development & Deployment
+
+- 🤝 **Intern @ Kawan Kerja** _(2024)_  
+  🚀 Feature Contribution & 🔍 Code Collaboration
+
+- 🛰️ **Intern @ PT. Telkom Indonesia Branch Banyuwangi** _(2020)_  
+  🖧 IT Support & 🌐 Network Engineering
 
 ## 🎓 Education
+
 🎓 Software Engineering,  
-**Politeknik Negeri Banyuwangi** (2022–Now)  
+**Politeknik Negeri Banyuwangi** (2022–Now)
+
 > Focus: Full-Stack Dev, Databases, Cloud Computing
 
 ---
