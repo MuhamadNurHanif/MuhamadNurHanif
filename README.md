@@ -27,13 +27,14 @@
 ## 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=30BC6B&center=true&vCenter=true&width=435&lines=Cloud+Deployment+%28AWS%2C+DigitalOcean%29;CI%2FCD+Pipelines+%28Jenkins%29;Advanced+Mobile+Dev+with+Flutter" alt="Currently learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=30BC6B&center=true&vCenter=true&width=435&lines=Cloud+Deployment+%28AWS%2C+DigitalOcean%29;CI%2FCD+Pipelines+%28Jenkins%29;Advanced+Mobile+Dev+with+Flutter" alt="Lifelong Learning" />
 </p>
 
 ---
 
 ## 💼 Experience
-- 💼 **Freelance Full-Stack Web Developer** *(2023 - Present)*  
+
+- 💼 **Freelance Full-Stack Web Developer** _(2023 - Present)_  
   🖥️ Building responsive websites, 🧰 integrating backend systems, and 🚀 delivering modern digital solutions for various clients across industries.
 
 - 🖥️ **Freelance IT Support Engineer @ PT Graha Karya Informasi** _(2024)_  
