@@ -1,87 +1,60 @@
-# Hanif - Full-Stack Software Engineering Student
-
-Welcome to my GitHub profile! I'm Hanif, a dedicated Full-Stack Software Engineering student at Politeknik Negeri Banyuwangi. Currently in my 6th semester, I have a strong passion for developing scalable and efficient applications. My goal is to continuously expand my expertise in both front-end and back-end technologies, contributing to innovative solutions in the tech industry.
-
----
-
-## 🚀 About Me
-
-- 🌱 Currently mastering **Full-Stack Software Engineering**, working with technologies like **Java, JavaScript, HTML, CSS, Tailwind CSS, Laravel, and more**.
-- 💡 Passionate about exploring new technologies, frameworks, and tools to build responsive and dynamic web and mobile applications.
-- 🔭 Focusing on advancing my knowledge in **web development, database management, and cloud computing**.
-- 👯 Collaborating with fellow developers and tech enthusiasts to build impactful solutions.
-- 💬 Open to discussions on **web development, mobile development, and emerging tech trends**.
-- 📫 Reach me at **[nurhanif2312@gmail.com](mailto:nurhanif2312@gmail.com)**.
+<h1 align="center">👋 Hi there, I'm Hanif!</h1>
+<p align="center">
+  🚀 Full-Stack Software Engineering Student at <strong>Politeknik Negeri Banyuwangi</strong><br/>
+  💻 Passionate about Web & Mobile Development | Cloud | UI/UX
+</p>
 
 ---
 
-## 🛠️ Skills & Technologies
-
-### Front-End Development
-- HTML5, CSS3, JavaScript
-- Tailwind CSS, Bootstrap
-- React, Vue.js (Beginner)
-
-### Back-End Development
-- PHP (Laravel)
-- Node.js (Express) - Beginner
-- RESTful API Development
-
-### Database & Tools
-- MySQL, PostgreSQL
-- MongoDB
-- Git, GitHub, GitLab
-- Docker (Beginner)
-
-### Mobile Development
-- Android Development (Flutter)
-
-### Other Technologies
-- Agile Methodology
-- Cloud Deployment (AWS, DigitalOcean - Beginner)
-- CI/CD Pipelines (Jenkins)
+## 🧠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vue,php,laravel,nodejs,mysql,postgres,mongodb,docker,git" />
+</p>
 
 ---
 
-## 📚 Projects
+## 🧩 Projects Showcase
+> 💼 Real-world solutions with purpose
 
-- **[Blimbingsari Creative Craft Website](https://bccrafts.com/)** – A dynamic website for a local business featuring a product catalog and customer engagement features.
-- **Student Information System** – A web-based application for managing student data and academic records, built with Laravel.
-- **Personal Portfolio** – A portfolio showcasing my projects, skills, and experiences as a Full-Stack Developer.
-
----
-
-## 💼 Professional Experience
-
-### Freelance Web Developer *(2022 - Present)*
-- Developed and deployed responsive websites for various clients, enhancing their online presence.
-- Optimized web applications for better performance and user experience.
-
-### Intern Web Developer – *PT. MasCitra Teknologi Informasi* *(2025 - Present)*
-- Assisted in the development and maintenance of the company's website.
-- Focused on enhancing user experience and improving site performance.
+- 🎨 [**Blimbingsari Creative Craft**](https://bccrafts.com) – Product catalog & client engagement site
+- 📚 **Student Information System** – Built with Laravel for student record management
+- 🌐 **Personal Portfolio Website** – Showcasing my journey as a Full-Stack Dev
 
 ---
 
-## 🎯 Career Goals
+## 🌱 Currently Learning
 
-- Gain hands-on experience in advanced Full-Stack development projects.
-- Contribute to open-source projects and collaborate with developers globally.
-- Enhance expertise in cloud computing and mobile application development.
-
----
-
-## 📑 Education
-
-**Bachelor of Science in Software Engineering**  
-Politeknik Negeri Banyuwangi *(2022 - Present)*  
-Currently in the 6th semester, focusing on Full-Stack Development and advanced computing technologies.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=30BC6B&center=true&vCenter=true&width=435&lines=Cloud+Deployment+%28AWS%2C+DigitalOcean%29;CI%2FCD+Pipelines+%28Jenkins%29;Advanced+Mobile+Dev+with+Flutter" alt="Currently learning" />
+</p>
 
 ---
 
-## 👀 Let's Connect!
+## ✨ Experience
 
-Feel free to explore my repositories and reach out if you're interested in collaborating, discussing tech trends, or sharing insights. Let's innovate and build great things together! 💻
+- 🧑‍💻 **Freelance Developer** (2022–Now): Building responsive and optimized websites
+- 🧪 **Intern @ PT. MasCitra Teknologi Informasi** (2025): Website maintenance & UX improvements
 
-**Follow me on:**  
-[LinkedIn](https://www.linkedin.com/in/muhamad-nur-hanif/) | [Instagram](https://www.instagram.com/hanifmnh/) | [GitHub](https://github.com/MuhamadNurHanif)
+---
+
+## 🎓 Education
+🎓 Software Engineering,  
+**Politeknik Negeri Banyuwangi** (2022–Now)  
+> Focus: Full-Stack Dev, Databases, Cloud Computing
+
+---
+
+## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/muhamad-nur-hanif/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/hanifmnh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/MuhamadNurHanif"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:nurhanif2312@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MuhamadNurHanif&style=flat-square&color=blue" alt="GitHub Profile Views" />
+</p>
