@@ -40,10 +40,13 @@
 - 🖥️ **Freelance IT Support Engineer @ PT Graha Karya Informasi** _(2024)_  
   🔧 Installation & 🛰️ Network Configuration
 
-- 🌐 **Intern @ PT. MasCitra Teknologi Informasi** _(2025 - Present)_  
+- 🌐 **Intern @ PT. MasCitra Teknologi Informasi** _(Feb 2025 - Jun 2025 )_  
   🧩 Website Maintenance & 🎯 UX Improvements
 
-- 🏗️ **Intern @ Open Your Mind Indonesia** _(2024 - Present)_  
+- 🏗️ **Intern @ Open Your Mind Indonesia** _(2024 - 2025)_  
+  🛠️ Website Development & Deployment
+
+- 🏗️ **Intern @ PT. PLN UPDL Surabaya** _(July 2025 - present)_  
   🛠️ Website Development & Deployment
 
 - 🤝 **Intern @ Kawan Kerja** _(2024)_  
