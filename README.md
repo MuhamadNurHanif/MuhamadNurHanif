@@ -14,46 +14,31 @@
 
 ---
 
-## 🧩 Projects Showcase
+## 📊 Project Highlights  
 
-> 💼 Real-world solutions with purpose
-
-- 🎨 [**Blimbingsari Creative Craft**](https://bccrafts.com) – Product catalog & client engagement site
-- 📚 **Student Information System** – Built with Laravel for student record management
-- 🌐 **Personal Portfolio Website** – Showcasing my journey as a Full-Stack Dev
+- 🚀 **5+ Web Applications** built & deployed for clients and organizations  
+- 🌍 **Serving 1,000+ Users** across various industries  
+- 🛠️ **Tech Stack Expertise**: Laravel, Django-Ninja, React, Tailwind, Vue.js, Inertia.js  
+- ☁️ **Cloud Deployment Experience**: Vps, Vercel, Shared Hosting 
+- 🎯 Focused on **Scalable, Performant, & User-Centered Solutions**
 
 ---
 
 ## 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=30BC6B&center=true&vCenter=true&width=500&lines=Cloud+Deployment+%28AWS%2C+DigitalOcean%29;CI%2FCD+Pipelines+%28Jenkins%29;Advanced+Mobile+Dev+with+Flutter;Web+Development+with+Laravel" alt="Lifelong Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=30BC6B&center=true&vCenter=true&width=600&lines=Frontend+%28React%2C+Vue%2C+Tailwind%29;Backend+%28Django-Ninja%2C+Laravel%2C+Node.js%29;Database+%28PostgreSQL%2C+MySQL%2C+MongoDB%29;API+Integration+%28REST%2C+GraphQL%29;DevOps+%28Docker%2C+Nginx%29" alt="Fullstack Web Development" />
 </p>
 
 ---
 
 ## 💼 Experience
 
-- 💼 **Freelance Full-Stack Web Developer** _(2023 - Present)_  
-  🖥️ Building responsive websites, 🧰 integrating backend systems, and 🚀 delivering modern digital solutions for various clients across industries.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hanif&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hanif&theme=radical" alt="GitHub Streak" />
+</p>
 
-- 🖥️ **Freelance IT Support Engineer @ PT Graha Karya Informasi** _(2024)_  
-  🔧 Installation & 🛰️ Network Configuration
-
-- 🌐 **Intern @ PT. MasCitra Teknologi Informasi** _(Feb 2025 - Jun 2025 )_  
-  🧩 Website Maintenance & 🎯 UX Improvements
-
-- 🏗️ **Intern @ Open Your Mind Indonesia** _(2024 - 2025)_  
-  🛠️ Website Development & Deployment
-
-- 🏗️ **Intern @ PT. PLN UPDL Surabaya** _(July 2025 - present)_  
-  🛠️ Website Development & Deployment
-
-- 🤝 **Intern @ Kawan Kerja** _(2024)_  
-  🚀 Feature Contribution & 🔍 Code Collaboration
-
-- 🛰️ **Intern @ PT. Telkom Indonesia Branch Banyuwangi** _(2020)_  
-  🖧 IT Support & 🌐 Network Engineering
 
 ## 🎓 Education
 
