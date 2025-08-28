@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I'm Hanif!</h1>
 <p align="center">
-  🚀 Full-Stack Software Engineering Student at <strong>Politeknik Negeri Banyuwangi</strong><br/>
+  🚀 Full-Stack Software Engineering</strong><br/>
   💻 Passionate about Web & Mobile Development | Cloud  | Linux Enthusiast
 </p>
 
